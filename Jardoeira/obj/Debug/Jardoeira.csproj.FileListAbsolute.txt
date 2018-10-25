@@ -1,0 +1,56 @@
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe.config
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.pdb
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csprojAssemblyReference.cache
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.Properties.Resources.resources
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.GenerateResource.cache
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.exe
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.pdb
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MaterialSkin.dll
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CopyComplete
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmLogin.resources
+\\Mac\Home\Documents\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmSplashscreen.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Database\Jardoeira.mdf
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Database\Jardoeira_log.ldf
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe.config
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.pdb
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MaterialSkin.dll
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\System.Data.SqlClient.dll
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csprojAssemblyReference.cache
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmLogin.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmSplashscreen.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.Properties.Resources.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.GenerateResource.cache
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CoreCompileInputs.cache
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CopyComplete
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.exe
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.pdb
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmUtilizadores.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.Menu.resources
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.Design.dll
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.dll
+Y:\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe.config
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.exe
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\Jardoeira.pdb
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.Design.dll
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.dll
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\bin\Debug\System.Data.SqlClient.dll
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csprojAssemblyReference.cache
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmEstatisticas.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmLogin.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmPagar.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmProdutos.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmSplashscreen.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmUtilizadores.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.frmVenda.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.Menu.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.Properties.Resources.resources
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.GenerateResource.cache
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CoreCompileInputs.cache
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.csproj.CopyComplete
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.exe
+C:\Users\magtaem\MEOCloud\Pedro Magalhães\ProjetoJarodeira\Jardoeira\Jardoeira\obj\Debug\Jardoeira.pdb
